@@ -20,7 +20,7 @@ Demoph Studios is a professional game development studio focused on creating eng
 Visit our repositories to explore our latest work in game development and tools.
 
 ## Contact
-- **Email:** [GMail](mailto:demophstudios@gmail.com)
+- **Email:** [email](mailto:demophstudios@gmail.com)
 - **Twitter:** [DemophStudios](https://x.com/demophstudios)
 
 ## Legal
